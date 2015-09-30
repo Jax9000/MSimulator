@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1423661303 source:c:\codeblocks\obiektowe\msimulator\main.cpp
+	<iostream>
+	<cmath>
+	"Molecule.h"
+	"Simulation.h"
+	"MArea.h"
+
+1423661303 c:\codeblocks\obiektowe\msimulator\include\molecule.h
+	<string>
+	<iostream>
+
+1423496232 source:c:\codeblocks\obiektowe\msimulator\src\molecule.cpp
+	"Molecule.h"
+	<iostream>
+	<string>
+
+1423490422 c:\codeblocks\obiektowe\msimulator\include\simulation.h
+
+1423564213 c:\codeblocks\obiektowe\msimulator\include\marea.h
+	"Molecule.h"
+	<iostream>
+	<cmath>
+	<time.h>
+	<stdlib.h>
+	<typeinfo>
+	"MDual.h"
+	"MPhotonic.h"
+	"MFissile.h"
+
+1422279721 source:c:\codeblocks\obiektowe\msimulator\src\marea.cpp
+	"MArea.h"
+	<cmath>
+	<iostream>
+	<algorithm>
+
+1423564213 source:c:\codeblocks\obiektowe\msimulator\src\simulation.cpp
+	"Simulation.h"
+	"MArea.h"
+	"Molecule.h"
+	"MNormal.h"
+	"MDual.h"
+	"MPhotonic.h"
+	"MDual_fissile.h"
+	"MFissile.h"
+	<iostream>
+	<cmath>
+	<vector>
+	<fstream>
+
+1422218255 source:c:\codeblocks\obiektowe\msimulator\src\mdual.cpp
+	"MDual.h"
+	"Molecule.h"
+
+1422312442 c:\codeblocks\obiektowe\msimulator\include\mdual.h
+	"Molecule.h"
+
+1422273118 source:c:\codeblocks\obiektowe\msimulator\src\mphotonic.cpp
+	"MPhotonic.h"
+
+1422312442 c:\codeblocks\obiektowe\msimulator\include\mphotonic.h
+	"Molecule.h"
+
+1422284455 source:c:\codeblocks\obiektowe\msimulator\src\mdual_fissile.cpp
+	"MDual_fissile.h"
+	"MFissile.h"
+
+1423567731 c:\codeblocks\obiektowe\msimulator\include\mdual_fissile.h
+	"Molecule.h"
+
+1422306752 source:c:\codeblocks\obiektowe\msimulator\src\mfissile.cpp
+	"MFissile.h"
+
+1423561597 c:\codeblocks\obiektowe\msimulator\include\mfissile.h
+	"Molecule.h"
+	"MDual_fissile.h"
+
+1422280504 source:c:\codeblocks\obiektowe\msimulator\src\mnormal.cpp
+	"MNormal.h"
+
+1422312442 c:\codeblocks\obiektowe\msimulator\include\mnormal.h
+	"Molecule.h"
+
+1422282097 source:c:\codeblocks\obiektowe\msimulator\src\foton.cpp
+	"Foton.h"
+
+1422282097 c:\codeblocks\obiektowe\msimulator\include\foton.h
+	"Molecule.h"
+
